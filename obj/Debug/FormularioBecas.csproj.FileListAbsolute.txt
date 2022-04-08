@@ -1,0 +1,25 @@
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\bin\Debug\FormularioBecas.exe.config
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\bin\Debug\FormularioBecas.exe
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\bin\Debug\FormularioBecas.pdb
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\obj\Debug\FormularioBecas.csprojAssemblyReference.cache
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\obj\Debug\FormularioBecas.Properties.Resources.resources
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\obj\Debug\FormularioBecas.csproj.GenerateResource.cache
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\obj\Debug\FormularioBecas.csproj.CoreCompileInputs.cache
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\obj\Debug\FormularioBecas.exe
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\obj\Debug\FormularioBecas.pdb
+C:\Users\angel\OneDrive\Documentos\TopicosAvanzadosDeProgramacion\HectorJimenez\FormularioBecas\obj\Debug\FormularioBecas.Form1.resources
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\bin\Debug\FormularioBecas.exe.config
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\bin\Debug\FormularioBecas.exe
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\bin\Debug\FormularioBecas.pdb
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.csprojAssemblyReference.cache
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.Form1.resources
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.Properties.Resources.resources
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.csproj.GenerateResource.cache
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.csproj.CoreCompileInputs.cache
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.exe
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.pdb
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\bin\Debug\FormularioBecas.exe.manifest
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\bin\Debug\FormularioBecas.application
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.TrustInfo.xml
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.exe.manifest
+C:\Users\joset\Downloads\FormularioBecas (1)\FormularioBecas\obj\Debug\FormularioBecas.application
